@@ -1,1 +1,9 @@
-
+Código: HU04
+ Nombre: Integración con pasarela de pago
+ Prioridad: Esta función debe estar
+ Criterios de adaptación:
+ Dado que el usuario necesita completar su compra,
+ cuando llegue al resumen de compra,
+ el sistema le redirigirá a una pasarela de pago segura
+ y confirmará la transacción una vez realizada.
+ Notas QA: El sistema debe asegurar que la transacción sea validada y almacenada correctamente.
