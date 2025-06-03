@@ -1,1 +1,8 @@
-
+Código: HU02
+ Nombre: Búsqueda y filtro de guitarras
+ Prioridad: Esta función debe estar
+ Criterios de adaptación:
+ Dado que el usuario requiere encontrar guitarras específicas,
+ cuando use los filtros o la barra de búsqueda,
+ el sistema mostrará resultados acordes a la categoría, marca o precio seleccionados.
+ Notas QA: Se mostrará un listado dinámico que se actualiza conforme a los filtros aplicados.
