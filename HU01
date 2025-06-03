@@ -1,0 +1,9 @@
+Código: HU01
+ Nombre: Registro de usuarios
+ Prioridad: Esta función debe estar
+ Criterios de adaptación:
+ Dado que el sistema necesita permitir acceso individualizado,
+ cuando el usuario se registre con sus datos,
+ se le dirigirá automáticamente a su perfil personal
+ y el sistema almacenará su información cifrada para uso posterior.
+ Notas QA: El usuario podrá acceder al resto de funcionalidades tras registrarse exitosamente.
