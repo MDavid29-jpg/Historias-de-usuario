@@ -1,1 +1,8 @@
-
+Código: HU05
+ Nombre: Modificación o cancelación del pedido
+ Prioridad: Esta función debe estar
+ Criterios de adaptación:
+ Dado que un usuario puede cambiar de opinión o detectar errores,
+ cuando lo desee y el pedido esté en estado pendiente,
+ podrá modificar los datos o cancelar el pedido.
+ Notas QA: El sistema actualizará el estado del pedido y notificará al usuario si la modificación fue exitosa.
