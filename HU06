@@ -1,1 +1,9 @@
-
+Código: HU06
+ Nombre: Generación de comprobante y calificación del servicio
+ Prioridad: Esta función debe estar
+ Criterios de adaptación:
+ Dado que el usuario necesita evidencia de su compra y quiere dejar su opinión,
+ cuando finalice el pago,
+ recibirá un comprobante descargable o imprimible
+ y podrá calificar su experiencia.
+ Notas QA: Se debe generar correctamente el archivo del comprobante y guardar la calificación asociada al pedido.
