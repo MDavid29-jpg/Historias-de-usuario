@@ -1,1 +1,9 @@
-
+Código: HU03
+ Nombre: Personalización de guitarra seleccionada
+ Prioridad: Esta función debe estar
+ Criterios de adaptación:
+ Dado que el usuario puede querer añadir personalizaciones a la guitarra,
+ cuando seleccione una guitarra específica,
+ podrá elegir adiciones como estuche, cuerdas especiales, entre otros,
+ y el sistema ajustará el precio final.
+ Notas QA: El sistema debe validar que los elementos seleccionados estén disponibles y se reflejen en el total.
